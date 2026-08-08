@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.waterslager.twa",
+        "sha256_cert_fingerprints": ["D2:D7:A7:33:BA:6E:17:7D:84:02:AD:1A:58:9B:DA:7B:1A:9F:34:A2:D8:ED:81:F4:67:EC:CA:ED:43:B4:B8:31"]
+      }
+    }]
