@@ -1,11 +1,23 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.waterslager.twa",
-    "sha256_cert_fingerprints": [
-      "D2:D7:A7:33:BA:6E:17:7D:84:02:AD:1A:58:9B:DA:7B:1A:9F:34:A2:D8:ED:81:F4:67:EC:CA:ED:43:B4:B8:31",
-      "5B:92:BD:B6:73:7C:AF:B4:B3:92:7E:F4:FA:1E:63:56:F4:F4:57:42:A3:87:29:FD:C6:F8:4B:00:71:F9:A1:D7"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.waterslager.twa",
+      "sha256_cert_fingerprints": [
+        "D2:D7:A7:33:BA:6E:17:7D:84:02:AD:1A:58:9B:DA:7B:1A:9F:34:A2:D8:ED:81:F4:67:EC:CA:ED:43:B4:B8:31",
+        "5B:92:BD:B6:73:7C:AF:B4:B3:92:7E:F4:FA:1E:63:56:F4:F4:57:42:A3:87:29:FD:C6:F8:4B:00:71:F9:A1:D7"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.waterslager.twa2",
+      "sha256_cert_fingerprints": [
+        "64:40:88:F9:4F:66:60:EA:E1:A8:44:30:70:1F:5A:AB:4E:E5:9D:58:1B:29:FF:37:BB:33:B6:FD:3E:50:2C:2F"
+      ]
+    }
   }
-}]
+]
