@@ -1,6 +1,8 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.waterslager.kimi.twa",
@@ -10,12 +12,26 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.waterslager.claude.twa",
       "sha256_cert_fingerprints": [
         "9E:FB:B5:76:1E:D9:BF:6A:1A:6C:E4:57:D7:41:7C:CD:F4:F8:B6:6C:2F:0F:0A:7B:28:0D:2E:AB:B3:92:09:50"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.waterslager.zikirmatik.twa",
+      "sha256_cert_fingerprints": [
+        "28:EF:94:40:18:51:61:41:AA:00:16:77:46:85:8A:1D:0D:87:57:B6:BF:CD:45:AF:7A:AC:E1:2A:6E:9D:EE:E1"
       ]
     }
   }
